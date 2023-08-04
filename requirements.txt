@@ -1,0 +1,9 @@
+asgiref==3.7.2
+Django==4.2.4
+image==1.5.33
+numpy==1.25.2
+Pillow==10.0.0
+six==1.16.0
+spectral==0.23.1
+sqlparse==0.4.4
+typing_extensions==4.7.1
